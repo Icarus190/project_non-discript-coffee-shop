@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #AB6832;
+    font-size: 18px;
+    
+}
+.banner {
+    background-color: #49281a;
+    color: white;
+    text-align: right;
+    padding: 15px 0;
+    font-size: 1em;
+   
+}
+.footer {
+  padding: 25px; /* Some padding */
+  text-align: center; /* Center text*/
+  background: #49281a; /* Grey background */
+  font-size: 1.5em;
+   justify-content: space-between;
+}
+#food {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+header {
+    padding: 20px;
+    text-align: center;
+    background: #49281a;
+    color: white;
+    font-size: 30px;
+    }
